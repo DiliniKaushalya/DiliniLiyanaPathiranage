@@ -20,7 +20,7 @@
 <a href="https://twitter.com/aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dilini9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilini9/" height="30" width="40" /></a>
 
-<a href = "mailto: oumw.udesh@gmail.com" target="blank" ><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: dilinikaushalya9@gmail.com" target="blank" ><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 
 </p>
 
