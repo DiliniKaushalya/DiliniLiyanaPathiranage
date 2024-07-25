@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/aa" target="blank"><img src="https://img.shields.io/twitter/follow/aa?logo=twitter&style=for-the-badge" alt="aa" /></a> </p>
 
-- 🔭 I’m currently working on [Power BI 1](Add Link Here)
+- 🔭 I’m currently working on enhancing my skills in **Business Analytics and Data Science**
 
-- 🌱 I’m currently learning **Power BI, Python**
+- 🌱 I’m currently I’m currently learning **Python for Data Analysis & Machine Learning**
 
-- 👯 I’m looking to collaborate on **Project !**
+- 👯 I’m looking to collaborate on **projects involving data-driven decision making & analytics**
 
-- 💬 Ask me about **ANything**
+- 💬 Ask me about **Anything**
 
-- 📫 How to reach me **dilinikaushalya9@gmail.com**
+- 📫 How to reach me Email : **dilinikaushalya9@gmail.com** | LinkedIn : **https://www.linkedin.com/in/dilini9/**
 
 - ⚡ Fun fact **Call me Dil**
 
