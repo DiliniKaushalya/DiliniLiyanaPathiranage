@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilini Liyana Pathiranage</h1>
 <h3 align="center">A dedicated Business Analyst representing Australia</h3>
 
-<p align="left"> <a href="[https://www.linkedin.com/in/dilini9/]" target="blank"><img src="[https://www.linkedin.com/in/dilini9/]" alt="[https://www.linkedin.com/in/dilini9/]" /></a> </p>
-
 - 🔭 I’m currently working on enhancing my skills in **Business Analytics and Data Science**
 
 - 🌱 I’m currently I’m currently learning **Python for Data Analysis & Machine Learning**
