@@ -22,8 +22,17 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/dilini9/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/DiliniKaushalya"> </a>
-			</p>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/DiliniKaushalya"> 
+	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.dilinikaushalya9@gmail.com">
+			<img src="gmail-new-icon5198">   </a>
+   
+			
+
+
+				</p>
+
 
 
 
