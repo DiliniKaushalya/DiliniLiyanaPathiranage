@@ -15,6 +15,50 @@
 
 - ⚡ Fun fact **Call me Dil**
 
+- <p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+
+  
+  
+  
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Dilini&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilini&theme=dark&hide_border=true" />
+
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dilini&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<h1 align="center">My Current Projects</h1>
+<br>
+<table border="1" align="center">
+<tr border="0">
+  <td width="50%" align="center">
+    
+
+https://github.com/user-attachments/assets/8cc6221d-78a3-4629-b80b-f4108ac579e7
+
+
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aa" height="30" width="40" /></a>
